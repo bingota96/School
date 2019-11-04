@@ -1,0 +1,41 @@
+.col-sm-12.first {
+    margin-top: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    /*margin: 10px;*/
+}
+.col-sm-12.second {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 15px;
+}
+.col-sm-8.three {
+    margin: auto;
+    border-top: 16px solid #7fc1ed;
+    border-left: 16px solid #7fc1ed;
+    border-right: 16px solid #7fc1ed;
+    border-bottom: 6px solid #7fc1ed;
+    padding: 0px;
+    border-radius: 35px;
+}
+
+p.text {
+  color: black;
+  text-align: center;
+}
+input[type="text"] {width: 300px;height: 35px !important;}
+.input{
+  text-align: center;
+  margin-bottom: 5px;
+}
+.all{
+  width: 800px;
+  margin: auto;
+}
+.form{
+  margin: 10px;
+}
+.bangdiem{
+  margin-top: 45px;
+  margin-bottom: 60px;
+}
